@@ -1,0 +1,17 @@
+#egy{
+    background-color: deepskyblue; 
+    color: gold; 
+    border-style: inset; 
+    border-width:2.5px; 
+    border-radius: 10px; 
+    font-size: 20px; 
+    display: inline-block; 
+    padding: 3px;
+}
+
+#stilus{
+    display: inline; 
+    font-weight: normal; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', 
+    sans-serif;
+}
