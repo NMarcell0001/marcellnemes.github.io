@@ -38,3 +38,13 @@
 #tablepadding{
     padding:3.5px;
 }
+
+#bigsign{
+    background-color:#008b8b; 
+    color:greenyellow;
+    border-style: inset; 
+    border-width:20px; 
+    font-family:fantasy;
+    padding-top: 10px; 
+    padding-right: 13px;
+}
