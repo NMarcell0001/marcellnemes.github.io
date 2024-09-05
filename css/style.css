@@ -81,3 +81,13 @@
     border:dotted 5px brown;
     float:left;
 }
+
+
+#luqas{
+    border:double cadetblue 5px;
+    font-size: 40px;
+    padding: 10px;
+    color:darkgreen;
+    font-family:monospace
+
+}
