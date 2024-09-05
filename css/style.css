@@ -75,3 +75,9 @@
 #smoltext{
     font-size:small
 }
+
+#buttonthingy{
+    color:darkgreen;
+    border:dotted 5px brown;
+    float:left;
+}
