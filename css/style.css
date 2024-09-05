@@ -65,3 +65,10 @@
     background-color:rgb(48,126,199);
     color:aqua
 }
+
+.lucas th{
+    border:dotted 3px green;
+    background-color:red;
+    color:yellow;
+    text-align: center;
+}
