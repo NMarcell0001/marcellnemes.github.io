@@ -24,6 +24,7 @@
     border-width:50px;
     padding:10px;
     background-color: black;
+    border-radius:20px
 
 }
 
@@ -49,6 +50,7 @@
     padding:10px;
     background-color:cornflowerblue;
     float:left;
+    border-radius:20px
 }
 
 
@@ -90,4 +92,15 @@
     color:darkgreen;
     font-family:monospace;
 
+}
+
+#bigblogsign{
+    background-color:cornsilk; 
+    color:darkgreen;
+    border-style: inset; 
+    border-width:20px; 
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 10px; 
+    padding-right: 13px;
+    padding:15px
 }
