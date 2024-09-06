@@ -104,3 +104,15 @@
     padding-right: 13px;
     padding:15px
 }
+
+#readmore{
+    background-color: chocolate;
+    color:greenyellow;
+    border-radius:2px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#blogtext{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:lightgrey;
+}
