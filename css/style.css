@@ -59,13 +59,13 @@
 
 }
 
-.lukas th{
+.dashentries th{
     border:solid 2px red;
     background-color:rgb(48,126,199);
     color:aqua
 }
 
-.lucas th{
+.credits th{
     border:dotted 3px green;
     background-color:red;
     color:yellow;
@@ -83,7 +83,7 @@
 }
 
 
-#luqas{
+#blogpage{
     border:double cadetblue 5px;
     font-size: 40px;
     padding:0;
