@@ -83,6 +83,10 @@
     font-size:small
 }
 
+#mediumtext{
+    font-size:medium
+}
+
 #buttonthingy{
     color:darkgreen;
     border:dotted 5px brown;
