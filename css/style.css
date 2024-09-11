@@ -72,10 +72,26 @@
     font-weight:bold
 }
 
+.underwaydashentries td{
+    border:solid 2px yellow;
+    background-color:rgb(48,126,199);
+    color:aqua;
+    text-align: center;
+    font-weight:bold
+}
+
+.completeddashentries td{
+    border:solid 2px rgb(19,255,0);
+    background-color:rgb(48,126,199);
+    color:aqua;
+    text-align: center;
+    font-weight:bold
+}
+
 .credits td{
     border:dotted 3px green;
     background-color:red;
-    color:yellow;
+    color:lightyellow;
     text-align: center;
     font-weight:bold
 }
