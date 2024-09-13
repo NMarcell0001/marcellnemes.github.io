@@ -18,18 +18,35 @@
     text-underline-offset: 8px;
 }
 
-#dashboard{
-    font-weight: normal;
-    font-size:18px;
-    color:azure;
-    display:inline-block;
-    border-width:50px;
-    padding:10px;
-    background-color: black;
-    border-radius:20px;
-
-
+.top-left-nav {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    padding: 10px;
+    z-index: 1000; 
 }
+
+.top-right-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 1000;
+}
+
+#dashboard {
+    font-weight: normal;
+    font-size: 18px;
+    color: azure;
+    display: inline-block;
+    border-width: 50px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 20px;
+    text-decoration: none; 
+    margin-left: 10px; 
+}
+
 
 #tablepadding{
     padding:3.5px;
