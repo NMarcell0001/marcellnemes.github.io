@@ -47,6 +47,18 @@
     margin-left: 10px; 
 }
 
+#leftmenu {
+    font-weight: normal;
+    font-size:18px;
+    color:chartreuse;
+    border-width:0px;
+    padding:10px;
+    background-color:cornflowerblue;
+    float:left;
+    border-radius:20px
+}
+
+
 
 #tablepadding{
     padding:3.5px;
@@ -64,18 +76,6 @@
     vertical-align:top;
     
 }
-
-#leftmenu {
-    font-weight: normal;
-    font-size:18px;
-    color:chartreuse;
-    border-width:50px;
-    padding:10px;
-    background-color:cornflowerblue;
-    float:left;
-    border-radius:20px
-}
-
 
 .tdborder td{
     border:solid 5px rgb(48, 126, 199);
@@ -139,7 +139,6 @@
     padding:0;
     color:darkgreen;
     font-family:monospace;
-
 }
 
 #bigblogsign{
