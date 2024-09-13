@@ -35,7 +35,7 @@
 #dashboard {
     font-weight: normal;
     font-size: 18px;
-    color: azure;
+    color: white;
     display: inline-block;
     border-width: 50px;
     padding: 10px;
@@ -48,10 +48,10 @@
 #leftmenu {
     font-weight: normal;
     font-size:18px;
-    color:chartreuse;
+    color:white;
     border-width:50px;
     padding:10px;
-    background-color:cornflowerblue;
+    background-color:black;
     border-radius:20px;
     margin: left 10px;
     display:inline-block;
