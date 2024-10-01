@@ -1,25 +1,25 @@
 #basestyle{
-    background-color: deepskyblue; 
-    color: gold; 
-    border-style: inset; 
-    border-width:2.5px; 
-    border-radius: 10px; 
-    font-size: 20px; 
-    display: inline-block; 
+    background-color: deepskyblue;
+    color: gold;
+    border-style: inset;
+    border-width:2.5px;
+    border-radius: 10px;
+    font-size: 20px;
+    display: inline-block;
     padding: 3px;
 }
 
 #longfont{
-    display: inline; 
-    font-weight: normal; 
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', 
+    display: inline;
+    font-weight: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
     sans-serif;
     font-size:18px;
     text-underline-offset: 8px;
 }
 
 .top-left-nav {
-    position: absolute; 
+    position: absolute;
     top: 0;
     left: 0;
     padding: 10px;
@@ -41,8 +41,8 @@
     padding: 10px;
     background-color: black;
     border-radius: 20px;
-    text-decoration: none; 
-    margin-left: 10px; 
+    text-decoration: none;
+    margin-left: 10px;
 }
 
 #leftmenu {
@@ -62,10 +62,10 @@
 }
 
 #bigsign{
-    background-color:#008b8b; 
+    background-color:#008b8b;
     color:greenyellow;
-    border-style: inset; 
-    border-width: 20px; 
+    border-style: inset;
+    border-width: 20px;
     font-family:fantasy;
     padding-right: 13px;
     display:inline-block;
@@ -144,4 +144,12 @@
 #blogtext{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:darkgreen;
+}
+
+#ftr{
+    background-color:rgb(48,126,199);
+    color:yellow;
+    font-style:oblique;
+    font-weight:bold;
+    border-radius: 50px;
 }
