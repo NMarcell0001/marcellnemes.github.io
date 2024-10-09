@@ -153,3 +153,18 @@
     font-weight:bold;
     border-radius: 50px;
 }
+
+#ftr {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(48,126,199);
+    color:yellow;
+    font-style:oblique;
+    font-weight:bold;
+    border-radius: 50px;
+  }
+
+body{
+    padding-bottom: 1%;
+}
